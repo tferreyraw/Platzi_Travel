@@ -2,13 +2,13 @@
 
 Web desarrollada para el curso de Tailwind otorgado por Platzi
 
-La idea del proyecto fue generar una landing page con ayuda de tailwind para conocer el framewok.
+La idea del proyecto fue generar una landing page con ayuda de tailwind para conocer el framework.
 La pagina web creada es completamente responsiva y tiene opcion de Dark Mode 
 
 Herramientas utilizadas:
 
 - 🟠HTML
-- 🟢 CSS3
+- 🟢CSS3
 - 🔵Tailwind
 - 🟡JAVASCRIPT
 
